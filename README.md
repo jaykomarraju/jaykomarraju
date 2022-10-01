@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaykomarraju
 - 👀 I’m interested in creating tech products that have a significant impact on consumer behavior
-    - Economies that are sprung from within tech ecosystems seems to have a net impact in bringing the world to an energy neutral ecosystem. When i talk about impacting consumer behavior it is primarily to make tech economies more accessible across the world.
+    - Economies that are sprung from within tech ecosystems seems to have a net impact in bringing the world to an energy neutral state. When i talk about impacting consumer behavior it is primarily to make tech economies more accessible across the world.
 - 🌱 I’m currently learning blockchain technology, modern web development principles and product design
 
 <!---
